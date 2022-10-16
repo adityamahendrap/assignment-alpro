@@ -29,3 +29,39 @@ Program ini dapat menghitung beberapa operasi sederhana meliputi:
 :exclamation: **Program ini menggunakan system("cls") yang mana hanya dapat dijalankan pada sistem operasi windows.**
 
 ## Hasil Pengujian Program :red_circle:
+
+Disini user dapat menginput 1 s/d 8 untuk memilih operasi.
+
+<img src="Image/Screenshot%20(98).png" width="600"/>
+
+Misalnya user menginputkan 1, maka akan masuk ke operasi kecepatan. Lalu user diminta menginputkan data jarak dan waktu.
+
+<img src="Image/Screenshot%20(99).png" width="600"/>
+
+Hasil operasi akan muncul jika user telah menginputkan data.
+
+<img src="Image/Screenshot%20(100).png" width="600"/>
+
+User dapat mengulangi perhitungan operasi dengan menginputkan 1, atau kembali ke menu awal dengan menginputkan 2.
+
+<img src="Image/Screenshot%20(101).png" width="600"/>
+
+Ulangi :
+
+<img src="Image/Screenshot%20(102).png" width="600"/>
+
+Kembali :  
+User dapat menginputkan 1 s/d 8 untuk memilih operasi lagi.
+
+<img src="Image/Screenshot%20(103).png" width="600"/>
+
+Jika user menginputkan 9 maka program akan berhenti. 
+
+<img src="Image/Screenshot%20(104).png" width="600"/>
+
+# Terimakasih :sparkles:
+
+
+
+
+
